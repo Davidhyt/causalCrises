@@ -3,6 +3,7 @@
 Codes for paper:
 
 Crises Do Not Cause Lower Short-Term Growth
+(https://arxiv.org/abs/2211.04558)
 
 ```
 @misc{hou2022crises,
